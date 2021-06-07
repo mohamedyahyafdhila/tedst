@@ -28,10 +28,10 @@ after hiring someone you will pay him safely due to the new technologie blockcha
 Creating account sur meta mask with the right configuration 
 Creating account sur dialogflow with the right configutauion
 
-Tips & Triks 
-1.truffle unbox webpack
-2. Change truffle-config.js
-3. Open terminal and run : truffle compile
-4. To deploy contracts : truffle migrate
-5. To test contracts: truffle test
-6. To run server: cd app && npm run dev
+###### Tips & Triks 
+1.truffle unbox webpack <br>
+2. Change truffle-config.js <br> 
+3. Open terminal and run : truffle compile<br>
+4. To deploy contracts : truffle migrate <br>
+5. To test contracts: truffle test <br>
+6. To run server: cd app && npm run dev <br>
