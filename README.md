@@ -25,8 +25,8 @@ after hiring someone you will pay him safely due to the new technologie blockcha
 6. 
 ####  BLOCKCHAIN & CHat bot 
 
-Creating account sur meta mask with the right configuration 
-Creating account sur dialogflow with the right configutauion
+Creating account sur meta mask with the right configuration  <br>
+Creating account sur dialogflow with the right configutauion <br>
 
 ###### Tips & Triks 
 1.truffle unbox webpack <br>
