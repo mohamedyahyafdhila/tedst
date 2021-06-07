@@ -23,7 +23,7 @@ after hiring someone you will pay him safely due to the new technologie blockcha
 4. Run all containers with docker-compse up 
 5. Verify in Datadog that your container picks up the docker and redis metrics 
 6. 
-####  Block chain / CHat bot 
+####  BLOCKCHAIN & CHat bot 
 
 Creating account sur meta mask with the right configuration 
 Creating account sur dialogflow with the right configutauion
