@@ -34,5 +34,4 @@ Tips & Triks
 3. Open terminal and run : truffle compile
 4. To deploy contracts : truffle migrate
 5. To test contracts: truffle test
-
 6. To run server: cd app && npm run dev
