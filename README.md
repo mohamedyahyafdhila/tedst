@@ -1,20 +1,20 @@
 # Welcome in Peritum application
 
 PERITUM is a web application that allows to create a profile based on skills and abilities of the user <br>
-<img src="reada/gitlab-1.JPG">
-<img src="reada/gitlab-2.JPG">
-<img src="reada/gitlab-3.JPG">
+<img src="reada/gitlab-1.JPG"> <br>
+<img src="reada/gitlab-2.JPG"> <br>
+<img src="reada/gitlab-3.JPG"><br>
 this skills wioll be validate by an experts or  a chatBot through an interview <br>
-<img src="reada/gitlab-4.JPG">
-<img src="reada/gitlab-5.JPG">
+<img src="reada/gitlab-4.JPG"> <br>
+<img src="reada/gitlab-5.JPG"> <br>
 you have also feed contains updates  from your interests and network that you follow <br>
-<img src="reada/gitlab-6.JPG">
+<img src="reada/gitlab-6.JPG"> <br>
 you can expand your network to have more job opportunities and chat with the bosses via our platforme <br>
-<img src="reada/gitlab-7.JPG">
-<img src="reada/gitlab-8.JPG">
-after hiring someone you will pay him safely due to the new technologie blockchain
-<img src="reada/gitlab-9.JPG">
-<img src="reada/gitlab-10.JPG">
+<img src="reada/gitlab-7.JPG"> <br>
+<img src="reada/gitlab-8.JPG"> <br>
+after hiring someone you will pay him safely due to the new technologie blockchain <br>
+<img src="reada/gitlab-9.JPG"> <br>
+<img src="reada/gitlab-10.JPG"> <br>
 
 ## Docker in one
 1. Install Docker Compose
